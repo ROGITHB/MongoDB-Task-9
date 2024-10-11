@@ -1,4 +1,4 @@
-# MongoDB Day-2 Task - Zen Class Programme Database
+# MongoDB Task 9 - Zen Class Programme Database
 
 The database is designed to store information about users, codekata submissions, attendance records, topics, tasks, company_drives, and mentors.
 
