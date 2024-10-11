@@ -59,8 +59,7 @@ To set up and use the database, you will need:
         }
       }
     ],
-    {maxTimeMS: 60000, allowDiskUse: true }
-  ); 
+    {maxTimeMS: 60000, allowDiskUse: true }); 
 
 ### 2. Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020:
 
